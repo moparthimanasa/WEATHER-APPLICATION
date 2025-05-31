@@ -1,9 +1,15 @@
 # WEATHER-APPLICATION
+
 COMPANY  : CODTECH IT SOLUTIONS
+
 NAME     : MOPARTHI MANASA
+
 INTERN ID: CT08DM984
+
 DOMAIN   : MERN STACK WEB DEVELOPMENT
+
 DURATION : 8 WEEKS
+
 MENTOR   : NEELA SANTOSH
 
 
@@ -48,7 +54,7 @@ To run the project locally, follow these steps:
 1. **Clone the repository**
    - Open your terminal and run:
      ```bash
-     git clone 
+     git clone https://github.com/moparthimanasa/WEATHER-APPLICATION.git
      ```
 
 2. **Navigate to the project directory**
@@ -74,9 +80,13 @@ To run the project locally, follow these steps:
 # 📦 Future Improvements
 
 Add animated weather icons
+
 Enhance offline support (PWA)
+
 Multi-language support
+
 Store search history
+
 Add weather alerts
 
 
