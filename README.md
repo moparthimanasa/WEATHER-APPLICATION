@@ -85,6 +85,7 @@ To run the project locally, follow these steps:
   # Folder Structure
   
  WEATHER_WEB/
+ 
 │
 
 ├── icons/                 # Weather condition icons
