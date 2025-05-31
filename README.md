@@ -80,6 +80,23 @@ To run the project locally, follow these steps:
 
 6. **Save and refresh your browser**
    - Now you can search for any city or use your location to fetch weather data.
+
+     
+  # Folder Structure
+  
+ WEATHER_WEB/
+│
+├── icons/                 # Weather condition icons
+│   ├── sun.png
+│   ├── rain.png
+│   └── ...
+├── app.js                 # (Optional) Backup JS file
+├── revised_app.js         # Main script with API logic
+├── index.html             # Main HTML structure
+├── style.css              # All custom styles
+├── manifest.json          # (Optional) Web App Manifest
+└── .vscode/               # Editor configuration
+
   
 # Benefits
 
