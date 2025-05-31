@@ -13,10 +13,10 @@ DURATION : 8 WEEKS
 MENTOR   : NEELA SANTOSH
 
 
-# description
-# 🌤️ Weather Appliction — A Responsive Weather Web App
+# Description
+# 🌤️ Pastel Weather — A Responsive Weather Web App
 
-**Weather Application** is a responsive, user-friendly weather web application that provides real-time weather information and 5-day forecasts using the **OpenWeatherMap API**. Designed with a clean pastel-themed UI and dynamic features, this project demonstrates API integration, DOM manipulation, asynchronous JavaScript, and responsive design principles.
+**Pastel Weather** is a responsive, user-friendly weather web application that provides real-time weather information and 5-day forecasts using the **OpenWeatherMap API**. Designed with a clean pastel-themed UI and dynamic features, this project demonstrates API integration, DOM manipulation, asynchronous JavaScript, and responsive design principles.
 
 ## 📌 Features
 
