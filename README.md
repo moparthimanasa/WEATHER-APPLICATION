@@ -101,5 +101,7 @@ Store search history
 
 Add weather alerts
 
+# Output
 
+![Image](https://github.com/user-attachments/assets/10dd2097-8f23-48b2-95f6-d3f6c2e523fa)
 
