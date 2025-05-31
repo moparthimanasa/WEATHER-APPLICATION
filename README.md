@@ -88,25 +88,25 @@ To run the project locally, follow these steps:
  
 │
 
-├── icons/                 # Weather condition icons
+├── icons/                        # Weather condition icons
 
-│   ├── sun.png
+│      ├── sun.png
 
-│   ├── rain.png
+│      ├── rain.png
 
-│   └── ...
+│      └── ...
 
-├── app.js                 # (Optional) Backup JS file
+├── app.js                        # (Optional) Backup JS file
 
-├── revised_app.js         # Main script with API logic
+├── revised_app.js                # Main script with API logic
 
-├── index.html             # Main HTML structure
+├── index.html                    # Main HTML structure
 
-├── style.css              # All custom styles
+├── style.css                     # All custom styles
 
-├── manifest.json          # (Optional) Web App Manifest
+├── manifest.json                 # (Optional) Web App Manifest
 
-└── .vscode/               # Editor configuration
+└── .vscode/                      # Editor configuration
 
   
 # Benefits
