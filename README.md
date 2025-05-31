@@ -102,6 +102,14 @@ Store search history
 Add weather alerts
 
 # Output
+**weather search for Delhi**
 
 ![Image](https://github.com/user-attachments/assets/10dd2097-8f23-48b2-95f6-d3f6c2e523fa)
+
+**weather search for Jammu and Kashmir**
+
+![Image](https://github.com/user-attachments/assets/c6732dac-b59d-4fcd-ae3e-04942b824455)
+
+**weather search in dark mode**
+
 
